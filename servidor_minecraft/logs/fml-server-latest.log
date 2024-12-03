@@ -1,0 +1,448 @@
+[21:53:17] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[21:53:17] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[21:53:17] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[21:53:17] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/MCP/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[21:53:17] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIVOZZ0G:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[21:53:17] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[21:53:17] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[21:53:17] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[21:53:17] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[21:53:17] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[21:53:17] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[21:53:17] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[21:53:17] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/MCP/servidor_minecraft/.
+[21:53:17] [main/DEBUG] [FML/]: Discovering coremods
+[21:53:17] [main/DEBUG] [FML/]: Examining for coremod candidacy lucky-block-forge-1.8.9-2.0.jar
+[21:53:17] [main/DEBUG] [FML/]: Not found coremod data in lucky-block-forge-1.8.9-2.0.jar
+[21:53:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:53:17] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:53:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:53:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:53:17] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:53:17] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[21:53:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[21:53:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[21:53:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[21:53:17] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[21:53:17] [main/DEBUG] [FML/]: Injection complete
+[21:53:17] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[21:53:17] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[21:53:17] [main/DEBUG] [FML/]: Read 825 binary patches
+[21:53:17] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[21:53:18] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[21:53:18] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[21:53:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:53:18] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[21:53:18] [main/DEBUG] [FML/]: Injection complete
+[21:53:18] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[21:53:18] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[21:53:18] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[21:53:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:53:18] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[21:53:18] [main/DEBUG] [FML/]: Validating minecraft
+[21:53:18] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[21:53:18] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:53:18] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:53:18] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:53:21] [Server thread/INFO] [FML/]: MinecraftForge v11.15.1.2318 Initialized
+[21:53:21] [Server thread/INFO] [FML/]: Replaced 229 ore recipies
+[21:53:21] [Server thread/DEBUG] [FML/]: File /workspaces/MCP/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[21:53:21] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[21:53:22] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[21:53:22] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/MCP/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar, loading
+[21:53:22] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[21:53:22] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[21:53:22] [Server thread/INFO] [FML/]: Searching /workspaces/MCP/servidor_minecraft/mods for mods
+[21:53:22] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file lucky-block-forge-1.8.9-2.0.jar
+[21:53:22] [Server thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.2318-1.8.9-universal.jar for potential mods
+[21:53:22] [Server thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.2318-1.8.9-universal.jar appears to be missing an mcmod.info file
+[21:53:22] [Server thread/DEBUG] [FML/]: Examining file lucky-block-forge-1.8.9-2.0.jar for potential mods
+[21:53:22] [Server thread/TRACE] [FML/]: Located mcmod.info file in file lucky-block-forge-1.8.9-2.0.jar
+[21:53:22] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mod.lucky.Lucky) - loading
+[21:53:22] [Server thread/TRACE] [lucky/]: Parsed dependency info : [] [] []
+[21:53:22] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
+[21:53:22] [Server thread/TRACE] [FML/]: Received a system property request ''
+[21:53:22] [Server thread/TRACE] [FML/]: System property request managing the state of 0 mods
+[21:53:22] [Server thread/DEBUG] [FML/]: After merging, found state information for 0 mods
+[21:53:22] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[21:53:22] [Server thread/DEBUG] [FML/]: Found translations in forge-1.8.9-11.15.1.2318-1.8.9-universal.jar [af_ZA, ar_SA, br_FR, ca_ES, cs_CZ, da_DK, de_DE, el_GR, en_US, es_ES, fa_IR, fi_FI, fr_FR, he_IL, hu_HU, it_IT, ja_JP, ko_KR, lt_LT, nb_NO, nl_NL, nn_NO, no_NO, pl_PL, pt_BR, pt_PT, ro_RO, ru_RU, sl_SI, sr_SP, sv_SE, tr_TR, uk_UA, vi_VN, zh_CN, zh_TW]
+[21:53:22] [Server thread/DEBUG] [lucky/]: Enabling mod lucky
+[21:53:22] [Server thread/DEBUG] [FML/]: Found translations in lucky-block-forge-1.8.9-2.0.jar [en_US]
+[21:53:22] [Server thread/TRACE] [FML/]: Verifying mod requirements are satisfied
+[21:53:22] [Server thread/TRACE] [FML/]: All mod requirements are satisfied
+[21:53:22] [Server thread/TRACE] [FML/]: Sorting mods into an ordered list
+[21:53:22] [Server thread/TRACE] [FML/]: Mod sorting completed successfully
+[21:53:22] [Server thread/DEBUG] [FML/]: Mod sorting data
+[21:53:22] [Server thread/DEBUG] [FML/]: 	lucky(Lucky Block:7.0.2): lucky-block-forge-1.8.9-2.0.jar ()
+[21:53:22] [Server thread/TRACE] [mcp/mcp]: Sending event FMLConstructionEvent to mod mcp
+[21:53:22] [Server thread/TRACE] [mcp/mcp]: Sent event FMLConstructionEvent to mod mcp
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Coder Pack took 0.001s
+[21:53:22] [Server thread/TRACE] [FML/FML]: Sending event FMLConstructionEvent to mod FML
+[21:53:22] [Server thread/TRACE] [FML/FML]: Mod FML is using network checker : Invoking method checkModLists
+[21:53:22] [Server thread/TRACE] [FML/FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[21:53:22] [Server thread/TRACE] [FML/FML]: The mod FML accepts its own version (8.0.99.99)
+[21:53:22] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, lucky] at CLIENT
+[21:53:22] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, lucky] at SERVER
+[21:53:22] [Server thread/TRACE] [FML/FML]: Sent event FMLConstructionEvent to mod FML
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Forge Mod Loader took 0.267s
+[21:53:22] [Server thread/TRACE] [Forge/Forge]: Sending event FMLConstructionEvent to mod Forge
+[21:53:22] [Server thread/TRACE] [FML/Forge]: Mod Forge is using network checker : No network checking performed
+[21:53:22] [Server thread/TRACE] [FML/Forge]: Testing mod Forge to verify it accepts its own version in a remote connection
+[21:53:22] [Server thread/TRACE] [FML/Forge]: The mod Forge accepts its own version (11.15.1.2318)
+[21:53:22] [Server thread/TRACE] [Forge/Forge]: Sent event FMLConstructionEvent to mod Forge
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Minecraft Forge took 0.008s
+[21:53:22] [Server thread/TRACE] [lucky/lucky]: Sending event FMLConstructionEvent to mod lucky
+[21:53:22] [Server thread/TRACE] [FML/lucky]: Mod lucky is using network checker : Accepting version 7.0.2
+[21:53:22] [Server thread/TRACE] [FML/lucky]: Testing mod lucky to verify it accepts its own version in a remote connection
+[21:53:22] [Server thread/TRACE] [FML/lucky]: The mod lucky accepts its own version (7.0.2)
+[21:53:22] [Server thread/DEBUG] [FML/lucky]: Attempting to inject @SidedProxy classes into lucky
+[21:53:22] [Server thread/TRACE] [lucky/lucky]: Sent event FMLConstructionEvent to mod lucky
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: Construction - Lucky Block took 0.039s
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Finished: Construction took 0.314s
+[21:53:22] [Server thread/DEBUG] [FML/]: Mod signature data
+[21:53:22] [Server thread/DEBUG] [FML/]:  	Valid Signatures:
+[21:53:22] [Server thread/DEBUG] [FML/]:  	Missing Signatures:
+[21:53:22] [Server thread/DEBUG] [FML/]: 		mcp	(Minecraft Coder Pack	9.19)	minecraft.jar
+[21:53:22] [Server thread/DEBUG] [FML/]: 		FML	(Forge Mod Loader	8.0.99.99)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[21:53:22] [Server thread/DEBUG] [FML/]: 		Forge	(Minecraft Forge	11.15.1.2318)	forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[21:53:22] [Server thread/DEBUG] [FML/]: 		lucky	(Lucky Block	7.0.2)	lucky-block-forge-1.8.9-2.0.jar
+[21:53:22] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[21:53:22] [Server thread/INFO] [FML/]: Found 384 ObjectHolder annotations
+[21:53:22] [Server thread/INFO] [FML/]: Identifying ItemStackHolder annotations
+[21:53:22] [Server thread/INFO] [FML/]: Found 0 ItemStackHolder annotations
+[21:53:22] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[21:53:22] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.001s
+[21:53:22] [Server thread/TRACE] [FML/FML]: Sending event FMLPreInitializationEvent to mod FML
+[21:53:22] [Server thread/TRACE] [FML/FML]: Sent event FMLPreInitializationEvent to mod FML
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Forge Mod Loader took 0.013s
+[21:53:22] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPreInitializationEvent to mod Forge
+[21:53:22] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[21:53:22] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Minecraft Forge took 0.041s
+[21:53:22] [Server thread/TRACE] [lucky/lucky]: Sending event FMLPreInitializationEvent to mod lucky
+[21:53:22] [Server thread/TRACE] [lucky/lucky]: Sent event FMLPreInitializationEvent to mod lucky
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Step: PreInitialization - Lucky Block took 0.001s
+[21:53:22] [Server thread/DEBUG] [FML/]: Bar Finished: PreInitialization took 0.055s
+[21:53:22] [Server thread/INFO] [FML/]: Applying holder lookups
+[21:53:22] [Server thread/INFO] [FML/]: Holder lookups applied
+[21:53:22] [Server thread/INFO] [FML/]: Injecting itemstacks
+[21:53:22] [Server thread/INFO] [FML/]: Itemstack injection complete
+[21:53:22] [Forge Version Check/INFO] [ForgeVersionCheck/Forge]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:53:23] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: [Forge] Received version check data:
+Moved Permanently
+[21:53:23] [Forge Version Check/DEBUG] [ForgeVersionCheck/Forge]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.Gson.fromJson(Gson.java:815) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:717) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:689) ~[Gson.class:?]
+	at net.minecraftforge.common.ForgeVersion$1.process(ForgeVersion.java:156) [ForgeVersion$1.class:?]
+	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:131) [ForgeVersion$1.class:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374) ~[JsonReader.class:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[MapTypeAdapterFactory$Adapter.class:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[MapTypeAdapterFactory$Adapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
+	... 5 more
+[21:53:23] [Server thread/TRACE] [mcp/mcp]: Sending event FMLInitializationEvent to mod mcp
+[21:53:23] [Server thread/TRACE] [mcp/mcp]: Sent event FMLInitializationEvent to mod mcp
+[21:53:23] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Coder Pack took 0.001s
+[21:53:23] [Server thread/TRACE] [FML/FML]: Sending event FMLInitializationEvent to mod FML
+[21:53:23] [Server thread/TRACE] [FML/FML]: Sent event FMLInitializationEvent to mod FML
+[21:53:23] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Forge Mod Loader took 0.001s
+[21:53:23] [Server thread/TRACE] [Forge/Forge]: Sending event FMLInitializationEvent to mod Forge
+[21:53:23] [Server thread/TRACE] [Forge/Forge]: Sent event FMLInitializationEvent to mod Forge
+[21:53:23] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Minecraft Forge took 0.001s
+[21:53:23] [Server thread/TRACE] [lucky/lucky]: Sending event FMLInitializationEvent to mod lucky
+[21:53:23] [Server thread/DEBUG] [FML/lucky]: Skipping automatic mod lucky entity registration for already registered class mod.lucky.entity.EntityLuckyProjectile
+[21:53:23] [Server thread/DEBUG] [FML/lucky]: Skipping automatic mod lucky entity registration for already registered class mod.lucky.entity.EntityLuckyPotion
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLInitializationEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: Initialization - Lucky Block took 0.827s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: Initialization took 0.829s
+[21:53:24] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sending event IMCEvent to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sent event IMCEvent to mod mcp
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.004s
+[21:53:24] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sending event IMCEvent to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sent event IMCEvent to mod FML
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.001s
+[21:53:24] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod Forge
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sending event IMCEvent to mod Forge
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sent event IMCEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.001s
+[21:53:24] [Server thread/TRACE] [FML/]: Attempting to deliver 0 IMC messages to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sending event IMCEvent to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event IMCEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: InterModComms$IMC - Lucky Block took 0.001s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: InterModComms$IMC took 0.006s
+[21:53:24] [Server thread/INFO] [FML/]: Injecting itemstacks
+[21:53:24] [Server thread/INFO] [FML/]: Itemstack injection complete
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.001s
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.075s
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLPostInitializationEvent to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLPostInitializationEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: PostInitialization - Lucky Block took 0.001s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 0.077s
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLLoadCompleteEvent to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLLoadCompleteEvent to mod mcp
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sending event FMLLoadCompleteEvent to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sent event FMLLoadCompleteEvent to mod FML
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Forge Mod Loader took 0.001s
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLLoadCompleteEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/Forge]: Forge RecipeSorter Baking:
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   15: RecipeEntry("Before", UNKNOWN, )
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   14: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   13: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   12: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   11: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   10: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   6: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   5: RecipeEntry("lucky:lucky_block", SHAPELESS, mod.lucky.crafting.LuckyCrafting) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[21:53:24] [Server thread/DEBUG] [FML/Forge]:   1: RecipeEntry("After", UNKNOWN, )
+[21:53:24] [Server thread/DEBUG] [FML/Forge]: Sorting recipies
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLLoadCompleteEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Minecraft Forge took 0.005s
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLLoadCompleteEvent to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLLoadCompleteEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: LoadComplete - Lucky Block took 0.000s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: LoadComplete took 0.006s
+[21:53:24] [Server thread/DEBUG] [FML/]: Freezing block and item id maps
+[21:53:24] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 4 mods
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerAboutToStartEvent to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerAboutToStartEvent to mod mcp
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Coder Pack took 0.000s
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sending event FMLServerAboutToStartEvent to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sent event FMLServerAboutToStartEvent to mod FML
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Forge Mod Loader took 0.000s
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerAboutToStartEvent to mod Forge
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerAboutToStartEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Minecraft Forge took 0.000s
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerAboutToStartEvent to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerAboutToStartEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ServerAboutToStart - Lucky Block took 0.000s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: ServerAboutToStart took 0.002s
+[21:53:24] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[21:53:24] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.001s
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[21:53:24] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[21:53:24] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sending event FMLModIdMappingEvent to mod lucky
+[21:53:24] [Server thread/TRACE] [lucky/lucky]: Sent event FMLModIdMappingEvent to mod lucky
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Lucky Block took 0.001s
+[21:53:24] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.003s
+[21:53:24] [Server thread/INFO] [FML/]: Applying holder lookups
+[21:53:24] [Server thread/INFO] [FML/]: Holder lookups applied
+[21:53:24] [Server thread/DEBUG] [FML/]: Loading persistent fluid defaults from world
+[21:53:24] [Server thread/DEBUG] [FML/]: The fluid minecraft:lava has been selected as the default fluid for lava
+[21:53:24] [Server thread/DEBUG] [FML/]: The fluid minecraft:water has been selected as the default fluid for water
+[21:53:24] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3344b1b0)
+[21:53:24] [Server thread/INFO] [FML/]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3344b1b0)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.UnknownHostException: www.minecraftascending.com
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:607)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:556)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:465)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:560)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:244)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:341)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:359)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1243)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1177)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1061)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1059)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1058)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1005)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_6_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[21:53:35] [Server thread/INFO] [FML/]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3344b1b0)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.UnknownHostException: www.minecraftascending.com
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:607)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:556)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:465)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:560)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:244)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:341)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:359)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1243)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1177)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1061)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1059)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1058)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1005)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_6_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: java.net.UnknownHostException: www.minecraftascending.com
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:607)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.Socket.connect(Socket.java:556)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:465)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:560)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:244)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:341)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.http.HttpClient.New(HttpClient.java:359)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1243)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1177)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1061)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:1059)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1058)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1005)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivileged(Native Method)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.net.URL.openStream(URL.java:1093)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at mod.lucky.world.LuckyTickHandler.onWorldLoad(LuckyTickHandler.java:46)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_6_LuckyTickHandler_onWorldLoad_Load.invoke(.dynamic)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:272)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:254)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+[21:53:35] [Server thread/INFO] [STDERR/]: [mod.lucky.world.LuckyTickHandler:onWorldLoad:69]: 	at java.lang.Thread.run(Thread.java:750)
+[21:53:36] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartingEvent to mod mcp
+[21:53:36] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartingEvent to mod mcp
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[21:53:36] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartingEvent to mod FML
+[21:53:36] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartingEvent to mod FML
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[21:53:36] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartingEvent to mod Forge
+[21:53:36] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartingEvent to mod Forge
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Minecraft Forge took 0.002s
+[21:53:36] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStartingEvent to mod lucky
+[21:53:36] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStartingEvent to mod lucky
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarting - Lucky Block took 0.001s
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarting took 0.003s
+[21:53:36] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStartedEvent to mod mcp
+[21:53:36] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStartedEvent to mod mcp
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[21:53:36] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStartedEvent to mod FML
+[21:53:36] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStartedEvent to mod FML
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Forge Mod Loader took 0.001s
+[21:53:36] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStartedEvent to mod Forge
+[21:53:36] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStartedEvent to mod Forge
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[21:53:36] [Server thread/TRACE] [lucky/lucky]: Sending event FMLServerStartedEvent to mod lucky
+[21:53:36] [Server thread/TRACE] [lucky/lucky]: Sent event FMLServerStartedEvent to mod lucky
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Step: ServerStarted - Lucky Block took 0.000s
+[21:53:36] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStarted took 0.001s
+[21:53:45] [Netty Epoll Server IO #1/TRACE] [FML/]: Handshake channel activating
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:53:45] [Netty Epoll Server IO #1/INFO] [FML/]: Client protocol version 2
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: HELLO
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:5 mods->FMLHandshakeServerState$2:HELLO
+[21:53:45] [Netty Epoll Server IO #1/INFO] [FML/]: Client attempting to join with 5 mods : lucky@7.0.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,Forge@11.15.1.1764,mcp@9.19
+[21:53:45] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: WAITINGCACK
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: COMPLETE
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[21:53:46] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:53:46] [Netty Epoll Server IO #1/DEBUG] [FML/]:   Next: DONE
+[21:54:14] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: group:1:(type=entity,ID=Slime,NBTTag=(Size=10);type=entity,ID=LavaSlime,NBTTag=(Size=10))@luck=-2
+[21:54:18] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: ID=written_book,NBTTag=(author="PlayerInDistress",title="$e$9Hero's Block Book",pages=["$l$nThe Lucky Block$r\n\nThe Lucky Block ($ofortunus blockus$r) was brought to Minecraft by the gods to reward the good and punish the evil.","The player's true self will be revealed after mining this block.\n\nSome fear it, and others have been made rich by it.","You must mine it and be prepared for whatever will follow.\n\nIt is not luck.\n\nIt is $bdestiny."])@luck=0
+[21:54:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:54:21] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: group:1:(ID=clock,NBTTag=(display=(Name="You're wasting your time"));ID=fish,damage=2,NBTTag=(display=(Name="I'm funny"));ID=fish,damage=3,NBTTag=(display=(Name="Oooooh!")))@luck=-1
+[21:54:23] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: type=entity,ID=ArmorStand,NBTTag=(Small=true,NoBasePlate=true,ShowArms=true,Equipment=[(id=stone_pickaxe,Count=1),(id=leather_boots,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=leather_leggings,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=leather_chestplate,Count=1,tag=(display=(color=#rand(0,16777215)))),(id=skull,Damage=3,Count=1,tag=(SkullOwner=#pName))],Rotation=[#pYaw+180f,0f],CustomName="Baby #pName",CustomNameVisible=true)@luck=0
+[21:54:40] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=fish,amount=#rand(8,16);ID=cooked_fish,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
+[21:54:41] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: group:1:(ID=clock,NBTTag=(display=(Name="You're wasting your time"));ID=fish,damage=2,NBTTag=(display=(Name="I'm funny"));ID=fish,damage=3,NBTTag=(display=(Name="Oooooh!")))@luck=-1
+[21:55:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:55:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:56:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:57:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:58:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:58:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[21:59:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:00:19] [Netty Epoll Server IO #6/TRACE] [FML/]: Handshake channel activating
+[22:00:19] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:00:19] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: HELLO
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:00:20] [Netty Epoll Server IO #6/INFO] [FML/]: Client protocol version 2
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: HELLO
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:5 mods->FMLHandshakeServerState$2:HELLO
+[22:00:20] [Netty Epoll Server IO #6/INFO] [FML/]: Client attempting to join with 5 mods : lucky@7.0.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,Forge@11.15.1.1764,mcp@9.19
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: WAITINGCACK
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: COMPLETE
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: DONE
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: DONE
+[22:00:20] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:00:20] [Netty Epoll Server IO #6/DEBUG] [FML/]:   Next: DONE
+[22:00:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:01:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:02:10] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: ID=obsidian,amount=14@luck=1
+[22:02:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:03:00] [Server thread/INFO] [STDOUT/]: [mod.lucky.drop.func.DropProcessor:processRandomDrop:117]: Chosen Lucky Block Drop: type=structure,ID=water_trap,pos=#pPos@luck=-2
